@@ -28,5 +28,4 @@ An AI-powered assistant built with **Streamlit** and **Google Gemini 2.5 Flash**
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Gemini_AI_Assistant.git
-cd Gemini_AI_Assistant
+https://github.com/Hamid4u-2026/Gemini_AI_Assistant
